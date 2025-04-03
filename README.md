@@ -15,7 +15,7 @@ A simple GUI application to convert PDF files to CSV format using the `tabula` l
 
 1. Install Python 3.7 or later (https://www.python.org/downloads/)
 2. Install required libraries: `pip install tabula pandas tkinterdnd2`
-3. Download the `converter.py` script and save it somewhere (e.g., `~/Documents/`)
+3. Download the `converter.py` script and save it somewhere (e.g., `~/Downloads/`)
 
 ## Usage
 
@@ -34,8 +34,7 @@ A simple GUI application to convert PDF files to CSV format using the `tabula` l
 
 ## Development
 
-The project is open-source and hosted on GitHub: https://github.com/lilrawn/enhanced-pdf-to-csv-converter
-
+The project is open-source and hosted on GitHub: https://github.com/lilrawn/PDF-to-CSV-converter
 Feel free to contribute or report issues!
 =======
 # PDF-to-CSV-converter
